@@ -6,4 +6,5 @@ gets.to_i.times{
     dic[w]=1
   when "find"
     puts dic[w] ? "yes" : "no"
-  end }
+  end
+}
